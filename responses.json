@@ -1,0 +1,57 @@
+[
+    {
+        "patterns": [
+            "hello",
+            "hi",
+            "hey",
+            "good morning",
+            "good evening"
+        ],
+        "response": "Hello! How can I help you today?"
+    },
+    {
+        "patterns": [
+            "how are you",
+            "how r u"
+        ],
+        "response": "I'm doing great. Thanks for asking!"
+    },
+    {
+        "patterns": [
+            "your name",
+            "who are you"
+        ],
+        "response": "I'm a Rule-Based Chatbot."
+    },
+    {
+        "patterns": [
+            "price",
+            "cost",
+            "fee"
+        ],
+        "response": "Our prices start from $10."
+    },
+    {
+        "patterns": [
+            "contact",
+            "phone",
+            "email"
+        ],
+        "response": "You can contact us at support@example.com."
+    },
+    {
+        "patterns": [
+            "thanks",
+            "thank you"
+        ],
+        "response": "You're welcome!"
+    },
+    {
+        "patterns": [
+            "bye",
+            "goodbye",
+            "see you"
+        ],
+        "response": "Goodbye! Have a nice day."
+    }
+]
